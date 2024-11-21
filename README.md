@@ -1,5 +1,5 @@
  <h1 align="center">Hi 👋, I'm Elijah Kimani</h1>
-<h3 align="center">A passionate full-stack developer from Kenya</h3>
+<h3 align="center">A passionate full-stack software developer from Kenya</h3>
 <img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/4-05-2022/FvBVst.gif">
 <p align="left"> <img src="https://m.media-amazon.com/images/I/71oMdEIO4vL._AC_UL320_.jpg" alt="elikimz" /> </p>
 
