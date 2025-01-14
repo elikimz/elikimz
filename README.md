@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 - 🌱 I’m currently learning new technologies and improving my skills in software development.
 - 👯 I’m looking to collaborate on open-source projects and exciting new ventures.
 - 💬 Ask me about web development, Python, JavaScript, and all things tech!
-- 📫 How to reach me: [email@example.com](mailto:email@example.com)
+- 📫 How to reach me: [elijahkimani1293@gmail.com](mailto:email@example.com)
 - 😄 Pronouns: They/Them
 - ⚡ Fun fact: I love exploring new programming languages and frameworks!
 
