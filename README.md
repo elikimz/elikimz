@@ -13,10 +13,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## My Skills
 
-- **Languages**: Python, JavaScript, HTML, CSS, Java
-- **Frameworks**: React, Node.js, Django, Flask
-- **Tools**: Git, Docker, Kubernetes, VS Code
-- **Databases**: MySQL, PostgreSQL, MongoDB
+- **Languages**: Python, JavaScript, HTML, CSS, Python
+- **Frameworks**: React, Node.js, FastAPI
+- **Tools**: Git, VS Code
+- **Databases**: MySQL, PostgreSQL
 
 ## GitHub Stats
 
